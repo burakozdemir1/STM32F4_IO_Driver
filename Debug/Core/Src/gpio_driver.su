@@ -1,0 +1,4 @@
+../Core/Src/gpio_driver.c:10:6:IO_init	16	static
+../Core/Src/gpio_driver.c:30:6:IO_statusControl	16	static
+../Core/Src/gpio_driver.c:50:6:IO_inputControlDebounce	24	static
+../Core/Src/gpio_driver.c:80:6:IO_ouptputControl	16	static

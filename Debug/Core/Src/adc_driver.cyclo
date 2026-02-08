@@ -1,0 +1,5 @@
+../Core/Src/adc_driver.c:12:6:ADC_Initialization	3
+../Core/Src/adc_driver.c:35:6:ADC_DMA_Conversion	6
+../Core/Src/adc_driver.c:81:10:MAP_Voltage_To_Percentage	1
+../Core/Src/adc_driver.c:92:6:HAL_ADC_ConvCpltCallback	1
+../Core/Src/adc_driver.c:98:6:HAL_ADC_ConvHalfCpltCallback	1

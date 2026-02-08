@@ -1,0 +1,4 @@
+../Core/Src/gpio_driver.c:10:6:IO_init	1
+../Core/Src/gpio_driver.c:30:6:IO_statusControl	1
+../Core/Src/gpio_driver.c:50:6:IO_inputControlDebounce	6
+../Core/Src/gpio_driver.c:80:6:IO_ouptputControl	1
